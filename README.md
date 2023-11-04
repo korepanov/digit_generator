@@ -10,3 +10,9 @@
 
 ## Решение 
 Программа решает поставленную задачу
+
+## Сборка программы 
+Из папки cmd:
+    
+    go build -o digit_generator main.go
+    ./digit_generator
